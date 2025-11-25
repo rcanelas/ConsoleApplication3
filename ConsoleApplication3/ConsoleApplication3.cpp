@@ -9,7 +9,7 @@ int main()
 }
 
 void print() {
-  // qualquer coisa
+  // qualquer coisa  exatamente na mesma linha
 }
 
 void novaFuncao() {
