@@ -6,7 +6,6 @@
 int main()
 {
     std::cout << "Hello World! Ruben  \n"; // outro teste
-    std::cout << "Hello World! Ruben  \n"; 
 }
 
 void print() {
